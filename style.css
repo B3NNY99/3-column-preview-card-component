@@ -85,7 +85,7 @@ main {
 @media (max-width:1000px) {
 
     main {
-        min-height: 200vh;
+        min-height: 150vh;
         flex-direction: column;
     }
 
